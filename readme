@@ -1,0 +1,2 @@
+This class uses the Bouncycastle lightweight API to generate X.509 certificates programmatically.
+For more detail, Check following URL: http://waheedtechblog.blogspot.in/2012/10/how-to-create-self-signed-certificates.html
